@@ -1,1 +1,1 @@
-# stone-paper-game
+# Stone-Paper-game
